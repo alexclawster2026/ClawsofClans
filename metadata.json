@@ -1,0 +1,8 @@
+{
+  "name": "Claws Of Clan",
+  "description": "An epic ocean warfare fantasy web application featuring powerful warrior crab heroes. Experience a battle-style UI with interactive hero selection, tokenomics treasure vault, and a campaign-style roadmap.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
